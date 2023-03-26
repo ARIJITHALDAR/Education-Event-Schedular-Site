@@ -1,37 +1,58 @@
 # Education-Event-Schedular-Site
 
-Steps to run this code
+
+
+How to run the Event Management System (EMS) Project
+
+
+
+1. Download the  zip file or "git clone https://github.com/ARIJITHALDAR/Education-Event-Schedular-Site.git"
 
 
 
 
 
-step 1: Dowload the zip file or git clone https://github.com/ARIJITHALDAR/Education-Event-Schedular-Site.git
+2. Extract the file and copy ems folder
+
+
+
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+
+
+
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+
+
+
+5. Create a database with name ems
+
+
+
+
+6. Import ems.sql file
 
 
 
 
 
-step 2 copy all files to your htdocs directory
+7.Run the script http://localhost/ems (frontend) 
+
+
+8. For admin panel
+
+http://localhost/ems/admin  (admin panel)
 
 
 
-
-step 3: Create a datebase name with ems and import sql file to the phpmyadmin
-
-
-
-
-
-step 4 :now run your project url: localhost/ems
-
-
-
-
-Admin login: localhost/ems/admin
+Credential for admin panel :
 
 
 
 Username:admin
 Password:16072001
+
+
 Thank you
